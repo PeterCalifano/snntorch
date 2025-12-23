@@ -392,8 +392,8 @@ epochs should help. Give it a go.
 ======================================================
 
 To compare, we can also train and test the same network architecture
-  on the same data, except now using ReLU as the activation function
-  instead of LIF.
+on the same data, except now using ReLU as the activation function
+instead of LIF.
 
 ::
 
@@ -465,3 +465,8 @@ References
 
    `Mohammad Pezeshki. pytorch_forward_forward. Github Repo January
    2023. <https://github.com/mpezeshki/pytorch_forward_forward>`__
+
+Acknowledgments
+===============
+
+This project was supported in-part by the National Science Foundation RCN-SC 2332166.
